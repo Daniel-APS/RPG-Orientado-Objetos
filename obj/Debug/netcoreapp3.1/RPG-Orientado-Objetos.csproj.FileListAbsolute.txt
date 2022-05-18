@@ -1,0 +1,14 @@
+D:\Git\Dio\RPG-Orientado-Objetos\obj\Debug\netcoreapp3.1\RPG-Orientado-Objetos.AssemblyInfoInputs.cache
+D:\Git\Dio\RPG-Orientado-Objetos\obj\Debug\netcoreapp3.1\RPG-Orientado-Objetos.AssemblyInfo.cs
+D:\Git\Dio\RPG-Orientado-Objetos\obj\Debug\netcoreapp3.1\RPG-Orientado-Objetos.csproj.CoreCompileInputs.cache
+D:\Git\Dio\RPG-Orientado-Objetos\bin\Debug\netcoreapp3.1\RPG-Orientado-Objetos.exe
+D:\Git\Dio\RPG-Orientado-Objetos\bin\Debug\netcoreapp3.1\RPG-Orientado-Objetos.deps.json
+D:\Git\Dio\RPG-Orientado-Objetos\bin\Debug\netcoreapp3.1\RPG-Orientado-Objetos.runtimeconfig.json
+D:\Git\Dio\RPG-Orientado-Objetos\bin\Debug\netcoreapp3.1\RPG-Orientado-Objetos.runtimeconfig.dev.json
+D:\Git\Dio\RPG-Orientado-Objetos\bin\Debug\netcoreapp3.1\RPG-Orientado-Objetos.dll
+D:\Git\Dio\RPG-Orientado-Objetos\bin\Debug\netcoreapp3.1\RPG-Orientado-Objetos.pdb
+D:\Git\Dio\RPG-Orientado-Objetos\obj\Debug\netcoreapp3.1\RPG-Orientado-Objetos.dll
+D:\Git\Dio\RPG-Orientado-Objetos\obj\Debug\netcoreapp3.1\RPG-Orientado-Objetos.pdb
+D:\Git\Dio\RPG-Orientado-Objetos\obj\Debug\netcoreapp3.1\RPG-Orientado-Objetos.genruntimeconfig.cache
+D:\Git\Dio\RPG-Orientado-Objetos\obj\Debug\netcoreapp3.1\RPG-Orientado-Objetos.csproj.AssemblyReference.cache
+D:\Git\Dio\RPG-Orientado-Objetos\obj\Debug\netcoreapp3.1\RPG-Orientado-Objetos.GeneratedMSBuildEditorConfig.editorconfig
